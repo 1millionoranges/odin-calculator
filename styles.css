@@ -9,9 +9,14 @@
     margin: 10px;
 }
 .display{
+    display: flex;
     width: auto;
     background-color: white;
     flex: 1;
+    justify-content: right;
+    font-size: 30px;
+    align-items: center;;
+    padding-right: 20px;
 }
 .in-calc{
     margin: 10px;
